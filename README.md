@@ -7,7 +7,7 @@
 ## Overview
 This project is an end-to-end Machine Learning web application designed to transition Human Resources from reactive exit interviews to predictive retention modeling. Developed as a capstone project for the IBM Project-Based Experiential Learning Virtual Internship, the model analyzes employee demographic, tenure, and compensation data to predict flight risk with quantified AI confidence scores.
 
-**👉 [Live Web Application](https://employee--attrition-predictor.streamlit.app)**
+**👉 [Live Web Application](https://employee--attrition--predictor005.streamlit.app)**
 
 ## Technical Architecture
 * **Algorithm:** Random Forest Classifier
